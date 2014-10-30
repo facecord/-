@@ -1,0 +1,15 @@
+E:\faceDemo\Com.Facecore.platform\Com.Facecore.platform.Common\bin\Debug\Com.Facecore.platform.Common.dll
+E:\faceDemo\Com.Facecore.platform\Com.Facecore.platform.Common\bin\Debug\Com.Facecore.platform.Common.pdb
+E:\faceDemo\Com.Facecore.platform\Com.Facecore.platform.Common\obj\Debug\Com.Facecore.platform.Common.dll
+E:\faceDemo\Com.Facecore.platform\Com.Facecore.platform.Common\obj\Debug\Com.Facecore.platform.Common.pdb
+E:\faceDemo\Com.Facecore.platform\Com.Facecore.platform.Common\obj\Debug\Com.Facecore.platform.Common.csprojResolveAssemblyReference.cache
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform.Common\bin\Debug\Com.Facecore.platform.Common.dll
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform.Common\bin\Debug\Com.Facecore.platform.Common.pdb
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform.Common\obj\Debug\Com.Facecore.platform.Common.dll
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform.Common\obj\Debug\Com.Facecore.platform.Common.pdb
+C:\Users\YinChengShuai\Desktop\Com.Facecore.platform\Com.Facecore.platform.Common\obj\Debug\Com.Facecore.platform.Common.csprojResolveAssemblyReference.cache
+F:\project\Com.Facecore.platform(C#)2.0\Com.Facecore.platform\Com.Facecore.platform.Common\bin\Debug\Com.Facecore.platform.Common.dll
+F:\project\Com.Facecore.platform(C#)2.0\Com.Facecore.platform\Com.Facecore.platform.Common\bin\Debug\Com.Facecore.platform.Common.pdb
+F:\project\Com.Facecore.platform(C#)2.0\Com.Facecore.platform\Com.Facecore.platform.Common\obj\Debug\Com.Facecore.platform.Common.csprojResolveAssemblyReference.cache
+F:\project\Com.Facecore.platform(C#)2.0\Com.Facecore.platform\Com.Facecore.platform.Common\obj\Debug\Com.Facecore.platform.Common.dll
+F:\project\Com.Facecore.platform(C#)2.0\Com.Facecore.platform\Com.Facecore.platform.Common\obj\Debug\Com.Facecore.platform.Common.pdb
